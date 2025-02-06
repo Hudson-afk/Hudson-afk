@@ -8,6 +8,12 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=White)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
+🎯 Sobre mim : 
+
+💻 Cursando Análise de Dados na EBAC / Formado em Ciência da Computação pela UNIP 👨🏽‍🎓
+📍 Santos-SP
+📊 Me especializando em SQL, Python, Power BI e Modelagem de Dados
+
 ## 📊 Estatísticas : 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hudson-afk&theme=python-dark)](https://git.io/streak-stats)
 
