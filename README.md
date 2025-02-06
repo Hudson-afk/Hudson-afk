@@ -9,3 +9,4 @@
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hudson%20Bezerra&theme=python-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hudson%20Bezerra&theme=python-dark" alt="GitHub Streak" /></a>
