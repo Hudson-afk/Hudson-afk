@@ -7,3 +7,5 @@
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=White)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hudson%20Bezerra&theme=python-dark)](https://git.io/streak-stats)
