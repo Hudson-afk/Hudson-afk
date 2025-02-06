@@ -8,6 +8,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=White)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
+## 📊 Estatísticas : 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hudson-afk&theme=python-dark)](https://git.io/streak-stats)
 
 
