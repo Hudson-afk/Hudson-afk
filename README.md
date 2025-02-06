@@ -11,7 +11,9 @@
 🎯 Sobre mim : 
 
 💻 Cursando Análise de Dados na EBAC / Formado em Ciência da Computação pela UNIP 👨🏽‍🎓
+
 📍 Santos-SP
+
 📊 Me especializando em SQL, Python, Power BI e Modelagem de Dados
 
 ## 📊 Estatísticas : 
